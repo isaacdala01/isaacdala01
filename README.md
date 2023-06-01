@@ -20,8 +20,6 @@ Frequentando o 4º ano do curso de Engenharia Informática de Gestão
 ![alt text](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![alt text](https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img  height='140'  src='https://github-readme-stats.vercel.app/api?username=isaacdala01&show_icons=true&theme=white'> <img  height='140'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=isaacdala01&layout=compact&theme=white'> 
+<img  height='180'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=isaacdala01&layout=compact&theme=react'> <img  height='180'  src='https://github-readme-stats.vercel.app/api?username=isaacdala01&show_icons=true&theme=react'>
 
 ## Conhecimento é o caminho para o sucesso 🚀
-  
-
