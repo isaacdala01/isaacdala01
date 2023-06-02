@@ -1,15 +1,16 @@
-### Olá, Eu sou o Isaac Dala 🤚
-Desenvolvedor 🖥️<br>
-Gestor de informática<br>
-Frequentando o 4º ano do curso de Engenharia Informática de Gestão
+<h1>Hi 👋, I'm Isaac Dala</h1>
+<h3>A passionate frontend developer</h3>
+<h3>Attending the 4th of the Management Informatics Engineering Course</h3>
 
-## Onde você pode me encontrar 🔍
+<h3 align="left">Connect with me:</h3>
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/pt) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/login/) [![Foo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
 [![Foo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/) [![Foo](https://img.shields.io/badge/FrontendMentor-3B83BD?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/)
 
-![html](https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47s7e585qy3kbe9s2b3x479c3xqeorjsuk394x6467&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-## Tecologias
+<img alt="coding" width="650" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif"> 
+
+<h3 align="left">Languages and Tools:</h3>
+
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,4 +23,7 @@ Frequentando o 4º ano do curso de Engenharia Informática de Gestão
 
 <img  height='180'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=isaacdala01&layout=compact&theme=react'> <img  height='180'  src='https://github-readme-stats.vercel.app/api?username=isaacdala01&show_icons=true&theme=react'>
 
-## Conhecimento é o caminho para o sucesso 🚀
+![html](https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47s7e585qy3kbe9s2b3x479c3xqeorjsuk394x6467&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+
+## Knowledge is the way to success 🚀
+
