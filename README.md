@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isaac+Dala;I'm+24+years+old;I+from+Angola,+NE;I+study+Management+Informatics+Engineering;Be+Welcome!+🫡)](https://git.io/typing-svg)
 
@@ -55,4 +55,4 @@ logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"/></a>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isaacdala01}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer"/>
