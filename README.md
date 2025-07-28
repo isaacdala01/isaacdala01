@@ -33,8 +33,8 @@ Comecei recentemente um canal na [Youtube.com](https://www.youtube.com/channel/U
 
 ## 📫 Contacto
 
-[![Watsaap Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](www.Watsaap.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/isaac-dala-0a32a1226)  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="www.linkedin.com/in/isaac-dala" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isaacdala01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Isaac Dala github stats" /> 
