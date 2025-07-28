@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/leovargasdev/leovargasdev/raw/master/.github/image.png" width="300"/> 
 
-Me chamo Isaac Dala, tenho 26 anos, moro em Bengue-Angola sou bacharel em Engenharia de Informática de Gestão.
+Me chamo Isaac Dala, tenho 26 anos, moro em Bengue-Angola sou Estudante de Engenharia de Informática de Gestão.
 
 Comecei recentemente um canal na [Youtube.com](https://www.youtube.com/channel/UCAJU2kmTH7HwSqZ5DOv74Wg) onde farei _livecoding_ de projetos/desafios web's, com o objetivo de ajudar a desenvolver novos programadores e programadoras.
 
