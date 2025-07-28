@@ -26,7 +26,6 @@ Comecei recentemente um canal na [Youtube.com](https://www.youtube.com/channel/U
 ## 📋 Estudando
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c++&labelColor=0D1117"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117"/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117"/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117"/></a>
 
 
